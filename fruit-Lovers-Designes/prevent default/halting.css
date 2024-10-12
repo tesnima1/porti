@@ -1,0 +1,19 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+}
+.box{
+    padding: 30px;
+
+}
+.first{
+    background-color: black;
+}
+.second{
+    background-color: blue;
+}
+.third{
+    background-color: brown;
+}

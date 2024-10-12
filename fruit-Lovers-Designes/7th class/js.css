@@ -1,0 +1,50 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+h2{
+    margin-left: 20%;
+    color: purple;
+    padding: 12px;
+}
+ul{
+    margin-left: 20%;
+    padding-top: 5%;
+    margin-right: 30%;
+}
+li{
+    list-style: none;
+    font-size: 25px;
+}
+.blue{
+    padding: 12px;
+    color: white;
+    background-color: blue;
+}
+.yellow{
+padding: 12px;
+background-color: yellow;
+}
+.green{
+    padding: 12px;
+background-color: green;
+}
+.red{
+    padding: 12px;
+background-color: red;
+}
+.purple{
+    padding: 12px;
+background-color: purple;
+}
+.orange{
+    padding: 12px;
+background-color: orange;
+}
+.pink{
+    padding: 12px;
+background-color: pink;
+}
+.aa{
+    color: aqua;
+}
